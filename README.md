@@ -9,7 +9,7 @@ ce test fait suite aux essais réalisés grace au travail sur https://github.com
 -  Le serveur web nginx
 -  php 7 en fast CGI : http://SERVEUR/infos.php
 -  le portail Wordpress
--  phpmydmin
+-  phpmyadmin 
 
 le user est admin, le mot de passe admin pour toutes les authentifications
 

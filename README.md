@@ -1,6 +1,6 @@
 # pmb-docker
 test de PMB Version 7.3.1 sous Docker pour les bibliothèques.
-
+ce test fait suite aux essais réalisés grace au travail sur https://github.com/jperon/pmb ...
 **Ce qui marche :**
 
 -  Le serveur web nginx

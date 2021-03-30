@@ -9,7 +9,8 @@ ce test fait suite aux essais réalisés grace au travail sur https://github.com
 -  Le serveur web nginx
 -  php 7 en fast CGI : http://SERVEUR/infos.php
 -  le portail Wordpress
--  phpmyadmin 
+-  phpmyadmin
+-  PMB 7 fonctionne 
 
 le user est admin, le mot de passe admin pour toutes les authentifications
 
@@ -17,9 +18,7 @@ le user est admin, le mot de passe admin pour toutes les authentifications
 
 **Ce qui ne marche pas :**
 
-- PMB 7.3.1 ne démarre pas (compatibilité PHP7?)
-  - index.php ne fonctionne pas
-  - ./tables/install.php ne s'execute pas mais se télécharge.
+ - indexation complete d'une ancienne base PMB 4.0.12
 
 ----
 

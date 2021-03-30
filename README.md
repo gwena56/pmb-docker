@@ -19,6 +19,10 @@ le user est admin, le mot de passe admin pour toutes les authentifications
 **Ce qui ne marche pas :**
 
  - indexation complete d'une ancienne base PMB 4.0.12
+  - champs de recherche 
+  - ....
+
+Tout semble fonctionner mais aucune recherche possible ... 
 
 ----
 
